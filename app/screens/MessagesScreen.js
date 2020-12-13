@@ -9,26 +9,26 @@ import ListItemDeleteAction from '../components/ListItemDeleteAction';
 const initialMessages = [
     {
         id: 1,
-        title: "T1",
-        description: 'D1',
+        title: "Rishabh Jain",
+        description: 'I am very happy to see my first app. It\'s a dream come true',
         image: require('../assets/ninja.jpg')
     },
     {
         id: 2,
-        title: "T2",
-        description: 'D2',
+        title: "Ninja Me",
+        description: 'I am also happy. I will learn this app completely and do wonders',
         image: require('../assets/ninja.jpg')
     },
     {
         id: 3,
-        title: "T2",
-        description: 'D2',
+        title: "Spider Man",
+        description: "I am going to rock in spiderman part 3",
         image: require('../assets/ninja.jpg')
     },
     {
         id: 4,
-        title: "T2",
-        description: 'D2',
+        title: "Dr. Octopus",
+        description: 'I will defeat spidy in next spideran sequal',
         image: require('../assets/ninja.jpg')
     }
 ]
